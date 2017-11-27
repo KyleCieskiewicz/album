@@ -1,0 +1,51 @@
+.body-container {
+    margin: 50px 100px 50px 100px;
+}
+img {
+    display: block;
+    margin: 0 auto;
+}
+
+h2 {
+    text-align: center;
+}
+
+.album-link {
+    color: black;
+}
+
+.album {
+    text-align: center;
+}
+
+.table-header{
+    text-align: center;
+}
+
+a:link {
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline;
+    color: purple;
+}
+
+td {
+    text-align: center;
+    font-style: italic;
+    background-color: gainsboro;
+}
+
+li {
+    font-style: italic;
+}
+
+th {
+    background-color: dimgray;
+    color: white;
+}
+
+.th-align-center {
+    text-align: center;
+}
